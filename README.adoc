@@ -1,0 +1,13 @@
+Kilo editor in Zig
+==================
+MIURA Masahiro
+
+https://ziglang.org/[Zig] 言語とテキストエディタ作成の学習のため、
+C 言語を使ったテキストエディタ作成チュートリアル
+https://viewsourcecode.org/snaptoken/kilo/[Build Your Own Text Editor]
+を Zig で写経したものです。
+
+2019-08-08 現在、Zig 処理系の開発版でビルドと実行ができることを確認しています。
+今後、Zig の言語自体や標準ライブラリの仕様変更により
+ビルドが通らないようになるものと思われますが、
+変更に追従する予定はありません。
